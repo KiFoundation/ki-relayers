@@ -1,0 +1,46 @@
+[{
+  "moniker": "KiFoundation",
+  "discord_handle" : "WinterNis#2596,Tarek#5747",
+  "kichain_valoper_address": "--",
+  "software": "Hermes 0.8.0",
+  "kichain_relayer_address": "ki15v2m8amchr3p3m2zw7m5sgt98qgvr94tsmeg3f",
+  "relayed_channel": {
+    "cosmos": "Y",
+    "osmosis": "Y",
+    "juno": "N",
+    "gravity":  "N",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
+},{
+  "moniker": "KiFoundation",
+  "discord_handle" : "WinterNis#2596,Tarek#5747",
+  "kichain_valoper_address": "--",
+  "software": "GO Relayer 0.9.3",
+  "kichain_relayer_address": "ki1xz7847pqd2zjm5l0gtzv487lwwkk2l7jkc2dfu",
+  "relayed_channel": {
+    "cosmos": "Y",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "N",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
+},{
+  "moniker": "KiFoundation",
+  "discord_handle" : "WinterNis#2596,Tarek#5747",
+  "kichain_valoper_address": "--",
+  "software": "Hermes 0.11.1+e16d5f6",
+  "kichain_relayer_address": "ki1d5rldtfgkjhuxvlkscv5224whh6qne2u720swp",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "N",
+    "juno": "Y",
+    "gravity":  "N",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
+}]
