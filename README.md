@@ -8,7 +8,7 @@ Dear KiChain Relayer Operators! Welcome to the KiChain! We are glad to have you 
 
 This shared repository summarizes, in one place, all the technical aspects related to relaying the KiChain and connecting it to the Cosmos ecosystem. We would be very grateful if you continuously contribute to complete and update it when relevant.
 
-**💡 Please do not create new channels before coordinating with the Ki Team 🙏**
+**💡 Please do not create new channels before coordinating with the Ki Team [on discord](https://discord.gg/TGJbmKmc4E). Tag Tarek#5747🙏**
 
 # Operators
 ## Shared Resources
@@ -18,8 +18,10 @@ Relayer operators can share their active relayer data by adding them to the `ope
 - Commit and push to your branch
 - Create a PR to this repository.    
 
+Merged entries can be viewed in this [spreadsheet](https://docs.google.com/spreadsheets/d/1LxC5eFiudNIVRTalh1Ltu_XWYANq8rUPCBgiWEOeBn0/edit?usp=sharing). The spreadsheet is generated automatically. Please do not try to make changes in it directly.   
+
 ## Announcements and relayer discussions  
-Please make sure to join the dedicated relayer channel [`#relayers-mainnet`](https://discord.gg/ppFE45EW) on our discord server. Operators who have provided their discord handle in the inventory file will be assigned the relayer role and given write access to the channel. 
+Please make sure to join the dedicated relayer channel [`#relayers-mainnet`](https://discord.gg/ppFE45EW) on our discord server. Operators who have provided their discord handle in the inventory file will be assigned the relayer role and given write access to the channel.
 
 # Channels
 ## Currently connected chains
