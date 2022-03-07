@@ -73,4 +73,19 @@
     "sifchain": "N",
     "omniflix": "N"
   }
+},{
+  "moniker": "MZONDER_NODE",
+  "discord_handle" : "mzonder#5844",
+  "kichain_valoper_address": "kivaloper1ahw9u2j08u6fms7xmxcnm8wjp7mkprsjmchf49",
+  "software": "hermes 0.12.0+ffb2c52",
+  "kichain_relayer_address": "ki1g705249p7cz56tvhmxx42hkg06lnw3lp7h4wwf",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "Y",
+    "stargaze": "Y",
+    "sifchain": "N",
+    "omniflix": "Y"
+  }
 }]
