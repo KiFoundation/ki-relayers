@@ -43,4 +43,34 @@
     "sifchain": "N",
     "omniflix": "N"
   }
+},{
+  "moniker": "polkachu.com",
+  "discord_handle" : "polkachu | polkachu.com#1249",
+  "kichain_valoper_address": "kivaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pq8jud7",
+  "software": "hermes 0.12.0+ffb2c52",
+  "kichain_relayer_address": "ki1x6t7gtrytxddkrjeekufjd05pyxc624tm5787s",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "N",
+    "gravity":  "N",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
+},{
+  "moniker": "polkachu.com",
+  "discord_handle" : "polkachu | polkachu.com#1249",
+  "kichain_valoper_address": "kivaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pq8jud7",
+  "software": "hermes 0.12.0+ffb2c52",
+  "kichain_relayer_address": "ki13qtze3meewgayvc0t4llr5sxzwxkws820s8d7a",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "N",
+    "juno": "Y",
+    "gravity":  "N",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
 }]
