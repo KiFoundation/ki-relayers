@@ -74,6 +74,21 @@
     "omniflix": "N"
   }
 },{
+  "moniker": "Consensus One",
+  "discord_handle" : "John Mac#9977",
+  "kichain_valoper_address": "kivaloper183ak9rcvfazp5rtljve6v06tyue3dfrglvpfux",
+  "software": "hermes 0.12.0",
+  "kichain_relayer_address": "ki1s0pcwmmxevcpjyhctk7j8my8f0xthkljf7wxu3",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "N",
+    "stargaze": "Y",
+    "sifchain": "Y",
+    "omniflix": "Y"
+  }
+ },{
   "moniker": "MZONDER_NODE",
   "discord_handle" : "mzonder#5844",
   "kichain_valoper_address": "kivaloper1ahw9u2j08u6fms7xmxcnm8wjp7mkprsjmchf49",
@@ -114,6 +129,21 @@
     "osmosis": "N",
     "juno": "N",
     "gravity":  "N",
+     "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "Y"
+  }
+},{
+  "moniker": "Blockscope",
+  "discord_handle" : "feida | Blockscope#8484",
+  "kichain_valoper_address": "kivaloper1swylsl9d26mhmwu98qmgtxtaqr5qcj749xqgxx",
+  "software": "hermes 0.11.1",
+  "kichain_relayer_address": "ki13m35nnxz8qc6m9utkf8dnhttvwln4ppdmc6xk9",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "N",
+    "gravity":  "Y",
     "stargaze": "N",
     "sifchain": "N",
     "omniflix": "Y"
