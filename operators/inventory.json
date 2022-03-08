@@ -73,4 +73,18 @@
     "sifchain": "N",
     "omniflix": "N"
   }
+},{
+  "moniker": "Consensus One",
+  "discord_handle" : "John Mac#9977",
+  "kichain_valoper_address": "kivaloper183ak9rcvfazp5rtljve6v06tyue3dfrglvpfux",
+  "software": "hermes 0.12.0",
+  "kichain_relayer_address": "ki1s0pcwmmxevcpjyhctk7j8my8f0xthkljf7wxu3",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "N",
+    "stargaze": "Y",
+    "sifchain": "Y",
+    "omniflix": "Y"
 }]
