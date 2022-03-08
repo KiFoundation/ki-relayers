@@ -119,6 +119,21 @@
     "omniflix": "Y"
   }
 },{
+  "moniker": "qf3l3k",
+  "discord_handle" : "qf3l3k#0603",
+  "kichain_valoper_address": "kivaloper1ekd3thg0449huazyuxgdqvesw6ls8p82mwz4ky",
+  "software": "hermes 0.12.0+ffb2c522",
+  "kichain_relayer_address": "ki1vp9xldhdmjfmnwel7nl6tgy8numduq08alk48q",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "N",
+    "juno": "N",
+    "gravity":  "N",
+     "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "Y"
+  }
+},{
   "moniker": "Blockscope",
   "discord_handle" : "feida | Blockscope#8484",
   "kichain_valoper_address": "kivaloper1swylsl9d26mhmwu98qmgtxtaqr5qcj749xqgxx",
