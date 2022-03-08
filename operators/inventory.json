@@ -88,4 +88,19 @@
     "sifchain": "N",
     "omniflix": "Y"
   }
+},{
+  "moniker": "Cros-nest",
+  "discord_handle" : "Galadrin | cros-nest#8449",
+  "kichain_valoper_address": "kivaloper1lykm0h574w0r3jm545hhlfnd8937a70022xlwl",
+  "software": "hermes 0.12.0+ffb2c522",
+  "kichain_relayer_address": "ki19pjtx7dah2fquf7udyxjv94h0eraha785mq3da",
+  "relayed_channel": {
+    "cosmos": "Y",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "Y",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "Y"
+  }
 }]
