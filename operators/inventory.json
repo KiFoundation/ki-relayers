@@ -148,4 +148,19 @@
     "sifchain": "N",
     "omniflix": "Y"
   }
+},{
+  "moniker": "Imperator.co",
+  "discord_handle" : "Abdel | Imperator.co#8347",
+  "kichain_valoper_address": "kivaloper1zjmeu3nv6s90sa00ljdz4hswf7qs6f9rpjutgv",
+  "software": "hermes 0.11.0+288a1ab",
+  "kichain_relayer_address": "ki1yst5vpufzrrhvz78s5l63etr852wjmmhd9mpcz",
+  "relayed_channel": {
+    "cosmos": "Y",
+    "osmosis": "Y",
+    "juno": "N",
+    "gravity":  "N",
+     "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
 }]
