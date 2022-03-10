@@ -193,4 +193,19 @@
     "sifchain": "Y",
     "omniflix": "N"
   }
+},{
+  "moniker": "DK17DK_NODE",
+  "discord_handle" : "GS#5588",
+  "kichain_valoper_address": "kivaloper1sx2alt59drcfadp98ru0k5nl6tnjje7cqnqdq7",
+  "software": "hermes 0.12.0+ffb2c52",
+  "kichain_relayer_address": "ki1ex375l9ga0rtrgs9p3sqf9te0ty6n8ypy2s22v",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "Y",
+    "stargaze": "Y",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
 }]
