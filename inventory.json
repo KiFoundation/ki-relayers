@@ -1,0 +1,241 @@
+[{
+  "moniker": "KiFoundation",
+  "discord_handle" : "WinterNis#2596,Tarek#5747",
+  "kichain_valoper_address": "--",
+  "software": "Hermes 0.8.0",
+  "kichain_relayer_address": "ki15v2m8amchr3p3m2zw7m5sgt98qgvr94tsmeg3f",
+  "relayed_channel": {
+    "cosmos": "Y",
+    "osmosis": "Y",
+    "juno": "N",
+    "gravity":  "N",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
+},{
+  "moniker": "KiFoundation",
+  "discord_handle" : "WinterNis#2596,Tarek#5747",
+  "kichain_valoper_address": "--",
+  "software": "GO Relayer 0.9.3",
+  "kichain_relayer_address": "ki1xz7847pqd2zjm5l0gtzv487lwwkk2l7jkc2dfu",
+  "relayed_channel": {
+    "cosmos": "Y",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "N",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
+},{
+  "moniker": "KiFoundation",
+  "discord_handle" : "WinterNis#2596,Tarek#5747",
+  "kichain_valoper_address": "--",
+  "software": "Hermes 0.11.1+e16d5f6",
+  "kichain_relayer_address": "ki1d5rldtfgkjhuxvlkscv5224whh6qne2u720swp",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "N",
+    "juno": "Y",
+    "gravity":  "N",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
+},{
+  "moniker": "polkachu.com",
+  "discord_handle" : "polkachu | polkachu.com#1249",
+  "kichain_valoper_address": "kivaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pq8jud7",
+  "software": "hermes 0.12.0+ffb2c52",
+  "kichain_relayer_address": "ki1x6t7gtrytxddkrjeekufjd05pyxc624tm5787s",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "N",
+    "gravity":  "N",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
+},{
+  "moniker": "polkachu.com",
+  "discord_handle" : "polkachu | polkachu.com#1249",
+  "kichain_valoper_address": "kivaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pq8jud7",
+  "software": "hermes 0.12.0+ffb2c52",
+  "kichain_relayer_address": "ki13qtze3meewgayvc0t4llr5sxzwxkws820s8d7a",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "N",
+    "juno": "Y",
+    "gravity":  "N",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
+},{
+  "moniker": "Consensus One",
+  "discord_handle" : "John Mac#9977",
+  "kichain_valoper_address": "kivaloper183ak9rcvfazp5rtljve6v06tyue3dfrglvpfux",
+  "software": "hermes 0.12.0",
+  "kichain_relayer_address": "ki1s0pcwmmxevcpjyhctk7j8my8f0xthkljf7wxu3",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "N",
+    "stargaze": "Y",
+    "sifchain": "Y",
+    "omniflix": "Y"
+  }
+ },{
+  "moniker": "MZONDER_NODE",
+  "discord_handle" : "mzonder#5844",
+  "kichain_valoper_address": "kivaloper1ahw9u2j08u6fms7xmxcnm8wjp7mkprsjmchf49",
+  "software": "hermes 0.12.0+ffb2c52",
+  "kichain_relayer_address": "ki1g705249p7cz56tvhmxx42hkg06lnw3lp7h4wwf",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "Y",
+    "stargaze": "Y",
+    "sifchain": "N",
+    "omniflix": "Y"
+  }
+},{
+  "moniker": "Cros-nest",
+  "discord_handle" : "Galadrin | cros-nest#8449",
+  "kichain_valoper_address": "kivaloper1lykm0h574w0r3jm545hhlfnd8937a70022xlwl",
+  "software": "hermes 0.12.0+ffb2c522",
+  "kichain_relayer_address": "ki19pjtx7dah2fquf7udyxjv94h0eraha785mq3da",
+  "relayed_channel": {
+    "cosmos": "Y",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "Y",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "Y"
+  }
+},{
+  "moniker": "qf3l3k",
+  "discord_handle" : "qf3l3k#0603",
+  "kichain_valoper_address": "kivaloper1ekd3thg0449huazyuxgdqvesw6ls8p82mwz4ky",
+  "software": "hermes 0.12.0+ffb2c522",
+  "kichain_relayer_address": "ki1vp9xldhdmjfmnwel7nl6tgy8numduq08alk48q",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "N",
+    "juno": "N",
+    "gravity":  "N",
+     "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "Y"
+  }
+},{
+  "moniker": "Blockscope",
+  "discord_handle" : "feida | Blockscope#8484",
+  "kichain_valoper_address": "kivaloper1swylsl9d26mhmwu98qmgtxtaqr5qcj749xqgxx",
+  "software": "hermes 0.11.1",
+  "kichain_relayer_address": "ki13m35nnxz8qc6m9utkf8dnhttvwln4ppdmc6xk9",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "N",
+    "gravity":  "Y",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "Y"
+  }
+},{
+  "moniker": "Goooodnes",
+  "discord_handle" : "goooodnes#8929",
+  "kichain_valoper_address": "kivaloper18zercj9rntvswhga3v69qh2yrsz75uh08wlg8w",
+  "software": "hermes 0.12.0+ffb2c52",
+  "kichain_relayer_address": "ki1rpksm9ryvrr09dsxzf3zzu0f62cet44s8ajcw7",
+  "relayed_channel": {
+    "cosmos": "Y",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "Y",
+    "stargaze": "Y",
+    "sifchain": "N",
+    "omniflix": "Y"
+  }
+},{
+  "moniker": "Imperator.co",
+  "discord_handle" : "Abdel | Imperator.co#8347",
+  "kichain_valoper_address": "kivaloper1zjmeu3nv6s90sa00ljdz4hswf7qs6f9rpjutgv",
+  "software": "hermes 0.11.0+288a1ab",
+  "kichain_relayer_address": "ki1yst5vpufzrrhvz78s5l63etr852wjmmhd9mpcz",
+  "relayed_channel": {
+    "cosmos": "Y",
+    "osmosis": "Y",
+    "juno": "N",
+    "gravity":  "N",
+     "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
+},{
+  "moniker": "3Tekos",
+  "discord_handle" : "jayjay#1653",
+  "kichain_valoper_address": "kivaloper1aupvcledkeqewaz397l9v6wrjv472j80kcwjde",
+  "software": "hermes 0.13.0-rc.0+aed24077",
+  "kichain_relayer_address": "ki1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptpn3l0v",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "Y",
+     "stargaze": "N",
+    "sifchain": "Y",
+    "omniflix": "N"
+  }
+},{
+  "moniker": "DK17DK_NODE",
+  "discord_handle" : "GS#5588",
+  "kichain_valoper_address": "kivaloper1sx2alt59drcfadp98ru0k5nl6tnjje7cqnqdq7",
+  "software": "hermes 0.12.0+ffb2c52",
+  "kichain_relayer_address": "ki1ex375l9ga0rtrgs9p3sqf9te0ty6n8ypy2s22v",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "Y",
+    "gravity":  "Y",
+    "stargaze": "Y",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
+},{
+  "moniker": "NodeStake.top",
+  "discord_handle" : "Alan | NodeStake.top#2237",
+  "kichain_valoper_address": "kivaloper19f0w9svr905fhefusyx4z8sf83j6et0g9plrux",
+  "software": "Hermes 0.12.0",
+  "kichain_relayer_address": "ki1nms20r7jzaa4ms9exv90ckl2xfn0rd3rlx64vc",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "Y",
+    "juno": "N",
+    "gravity":  "Y",
+    "stargaze": "Y",
+    "sifchain": "N",
+    "omniflix": "Y"
+  }
+},{
+  "moniker": "AlxVoy",
+  "discord_handle" : "Voynitskiy | AlxVoy#7896",
+  "kichain_valoper_address": "kivaloper1tm2p6va7gpsy0ettqk583pl5a05d39vml3rtk5",
+  "software": "Hermes 0.13.0-rc.0",
+  "kichain_relayer_address": "ki1vykjflfuwk6pd58778tlvhvaxaam34xycg0urx",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "N",
+    "juno": "N",
+    "gravity":  "Y",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
+  }
+}]
