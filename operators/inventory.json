@@ -222,5 +222,19 @@
     "stargaze": "Y",
     "sifchain": "N",
     "omniflix": "Y"
+  },{
+  "moniker": "AlxVoy",
+  "discord_handle" : "Voynitskiy | AlxVoy#7896",
+  "kichain_valoper_address": "kivaloper1tm2p6va7gpsy0ettqk583pl5a05d39vml3rtk5",
+  "software": "Hermes 0.13.0-rc.0",
+  "kichain_relayer_address": "ki1vykjflfuwk6pd58778tlvhvaxaam34xycg0urx",
+  "relayed_channel": {
+    "cosmos": "N",
+    "osmosis": "N",
+    "juno": "N",
+    "gravity":  "Y",
+    "stargaze": "N",
+    "sifchain": "N",
+    "omniflix": "N"
   }
 }]
