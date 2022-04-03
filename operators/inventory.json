@@ -235,6 +235,6 @@
     "gravity":  "Y",
     "stargaze": "N",
     "sifchain": "N",
-    "omniflix": "N"
+    "omniflix": "Y"
   }
 }]
