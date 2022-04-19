@@ -185,7 +185,7 @@
   "software": "hermes 0.13.0-rc.0+aed24077",
   "kichain_relayer_address": "ki1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptpn3l0v",
   "relayed_channel": {
-    "cosmos": "N",
+    "cosmos": "Y",
     "osmosis": "Y",
     "juno": "Y",
     "gravity":  "Y",
