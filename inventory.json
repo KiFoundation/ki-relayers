@@ -160,7 +160,7 @@
     "juno": "Y",
     "gravity":  "Y",
     "stargaze": "Y",
-    "sifchain": "Y",
+    "sifchain": "N",
     "omniflix": "Y"
   }
 },{
@@ -180,12 +180,12 @@
   }
 },{
   "moniker": "3Tekos",
-  "discord_handle" : "jayjay | 3Tekos#1653,Remi | 3Tekos#3616",
+  "discord_handle" : "jayjay#1653",
   "kichain_valoper_address": "kivaloper1aupvcledkeqewaz397l9v6wrjv472j80kcwjde",
   "software": "hermes 0.13.0-rc.0+aed24077",
   "kichain_relayer_address": "ki1evdjzy3w9t2yu54w4dhc2cvrlc2fvnptpn3l0v",
   "relayed_channel": {
-    "cosmos": "Y",
+    "cosmos": "N",
     "osmosis": "Y",
     "juno": "Y",
     "gravity":  "Y",
@@ -222,7 +222,8 @@
     "stargaze": "Y",
     "sifchain": "N",
     "omniflix": "Y"
-  },{
+  }
+},{
   "moniker": "AlxVoy",
   "discord_handle" : "Voynitskiy | AlxVoy#7896",
   "kichain_valoper_address": "kivaloper1tm2p6va7gpsy0ettqk583pl5a05d39vml3rtk5",
@@ -235,6 +236,6 @@
     "gravity":  "Y",
     "stargaze": "N",
     "sifchain": "N",
-    "omniflix": "Y"
+    "omniflix": "N"
   }
 }]
